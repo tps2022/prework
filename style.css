@@ -1,0 +1,26 @@
+body { 
+    background-color: skyblue;
+}  
+    
+    h1, h3 {
+color: pink;
+}
+    
+    h2 {
+    color: fuchsia;
+        }
+        p{
+            color:  #20D4F6;
+            font-weight:bold;
+    
+        }
+        nav{
+            font-weight: bold; color: #000;
+        }
+
+       form {
+background-color: yellow;
+color: navy;
+width: 400px;
+height: 150px;
+        }
